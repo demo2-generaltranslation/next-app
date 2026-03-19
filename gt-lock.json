@@ -5,8 +5,12 @@
       "879f3a5f954ee8b75bf1e91f4ea9916b41c933e5beba7eb6362647a637c9c66d": {
         "99b2543e99ec2bd1c86641fb4e3e7b5a8fa9edc643e5419653979b2487ff6354": {
           "es": {
-            "updatedAt": "2026-03-19T17:33:57.296Z",
+            "updatedAt": "2026-03-19T17:39:39.600Z",
             "postProcessHash": "75999aa89118e2235bea46dfd5d5984c0a8b0c0dc9e5a578d2726d9ae4dc7e13"
+          },
+          "pt-BR": {
+            "updatedAt": "2026-03-19T17:39:39.601Z",
+            "postProcessHash": "c30f6271c73932b9e2610ad5ca0714b1ed051f8e27d563a3a10555348cb6f617"
           }
         }
       }

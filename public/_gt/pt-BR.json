@@ -1,0 +1,46 @@
+{
+  "039ccefb7f335e27": "Gerado por create next app",
+  "0761ca1ffc676bd6": {
+    "c": "Documentação",
+    "i": 1,
+    "t": "a"
+  },
+  "0c088ae4cce7f188": "Vercel logomark",
+  "5aa871958a8f167b": "Create Next App",
+  "add966d9fa52473b": {
+    "c": "Para começar, edite o arquivo page.tsx.",
+    "i": 1,
+    "t": "h1"
+  },
+  "d907c95bc9a24473": {
+    "c": [
+      "Procurando um ponto de partida ou mais orientações? Acesse ",
+      {
+        "c": "Modelos",
+        "i": 2,
+        "t": "a"
+      },
+      " ou o centro de ",
+      {
+        "c": "Aprendizado",
+        "i": 3,
+        "t": "a"
+      },
+      "."
+    ],
+    "i": 1,
+    "t": "p"
+  },
+  "e431be23edaef9dd": {
+    "c": [
+      {
+        "i": 2,
+        "t": "Image"
+      },
+      "Implante agora"
+    ],
+    "i": 1,
+    "t": "a"
+  },
+  "e4e5b06f9f2359c1": "Next.js logo"
+}
